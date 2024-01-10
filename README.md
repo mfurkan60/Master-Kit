@@ -8,14 +8,14 @@ MasterKit helps you build fast, robust, and adaptable web applications or websit
 
 * Home Page: [MasterKit](https://html5boilerplate.com/)
 * Source:[https://github.com/Web-Master-2000/Master-Kit](https://github.com/Web-Master-2000/Master-Kit)
-* MasterWeb2000: [MasterWeb2000](https://masterweb2000.com/)
+* GETSoftware Company: [MasterKit](https://getsoftwarecompany.com/masterkit)
 
 
 ## Quick start
 
 Choose one of the following options:
 
-* Download the latest stable release from [https://masterweb2000.com/masterkit/](https://masterweb2000.com/masterkit/) This zip file is a snapshot of the dist folder. On Windows, Mac and from the file manager on Linux unzipping this folder will output to a folder named something like Master-Kit-main.zip From the command line will need to create a folder and unzip the contents into that folder.
+* Download the latest stable release from [MasterKit](https://getsoftwarecompany.com/masterkit) This zip file is a snapshot of the dist folder. On Windows, Mac and from the file manager on Linux unzipping this folder will output to a folder named something like Master-Kit-main.zip From the command line will need to create a folder and unzip the contents into that folder.
 
 
  
@@ -38,6 +38,25 @@ unzip masterkit*.zip
 * .htaccess File
 * Icon and Favicon Files
 
+## Explanation 
+
+**Simple and Responsive HTML Page:** A basic HTML page forms the fundamental structure of web applications and sites. Responsive design ensures that the page adapts to different screen sizes.
+
+**Modern Reset.css File:** Reset.css is used to reset the default styles of browsers, ensuring consistency across different browsers.
+
+**404 Error Page:** The 404 page is an error page displayed when users attempt to access an invalid page or resource.
+
+**Bootstrap, Skeleton, Bulma, Materialize, and more supported content:** This includes some popular CSS frameworks. Frameworks like Bootstrap, Skeleton, Bulma, and Materialize help in quickly creating modern and stylish designs.
+
+**Modern Robot.txt File:** robots.txt is a file that controls the indexing behavior of search engines. A modern robots.txt file provides guidelines to search engines on how to crawl your site.
+
+**Package.json File:** package.json is a file that defines the dependencies and project configuration of a Node.js project. It includes information about the project's dependencies (e.g., npm packages) and other necessary project details.
+
+**.gitignore File:** .gitignore is used to specify files and directories that should not be added to the Git repository. This file contains items that should not be tracked by Git, such as temporary files or sensitive information.
+
+**.htaccess File:** .htaccess is a configuration file used in the Apache web server. This file allows you to customize the behavior of your web server, including configurations for redirects, compression, security settings, and more.
+
+**Icon and Favicon Files:** These files are small icons representing your website, typically displayed in the browser tab or bookmark bar. The favicon is a small icon that usually represents a website.
 
 
 ## Contributing
